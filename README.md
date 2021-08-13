@@ -1,6 +1,6 @@
-# Sass Portfolio Tutorial
-This is part of my Sass tutorial on YouTube.
+# Sass Portfolio
+
+This is a project of the freeCodeCamp.org course Sass Tutorial for Beginners - CSS With Superpowers
 
 Tutorial Link : https://youtu.be/_a5j7KoflTs
 
-Demo Website  : https://codestackr.github.io/portfolio-sass/dist/
